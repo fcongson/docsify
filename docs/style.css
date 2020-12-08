@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css?family=PT+Sans&Source+Sans+Pro&Roboto+Mono&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Montserrat&Source+Code+Pro&PT+Sans&Source+Sans+Pro&Roboto+Mono&display=swap");
 * {
 	-webkit-font-smoothing: antialiased;
 	-webkit-overflow-scrolling: touch;
@@ -802,7 +802,7 @@ body {
 .markdown-section ol,
 .markdown-section p,
 .markdown-section ul {
-	line-height: 1.6rem;
+	line-height: 1.8rem;
 	word-spacing: .05rem
 }
 
@@ -961,7 +961,7 @@ body {
 	border-radius: 2px;
 	color: var(--codeTextColor);
 	display: block;
-	font-family: Roboto Mono, Monaco, courier, monospace;
+	font-family: var(--codeFontFamily), Roboto Mono, Monaco, courier, monospace;
 	font-size: .8rem;
 	line-height: inherit;
 	margin: 0 2px;
