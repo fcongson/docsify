@@ -1,2 +1,2 @@
-- [Home]()
-- [Nested](/nested/README.md)
+- [Home](/)
+- [Nested](/nested/)
