@@ -31,7 +31,8 @@
     <script>
       window.$docsify = {
         search: "auto",
-        coverpage: true,
+        // coverpage: true,
+        // onlyCover: true,
         name: "Lorem Ipsum",
         search: {
           noData: {
@@ -42,7 +43,10 @@
             "/": "Search",
           },
         },
+        loadNavbar: true,
         loadSidebar: true,
+        subMaxLevel: 6,
+        repo: "fcongson/docsify",
         plugins: [
           function (hook) {
             var footer = [
@@ -65,6 +69,12 @@
           siteFont: "Montserrat, sans-serif",
           codeFontFamily: "Source Code Pro, monospace",
           bodyFontSize: "16px",
+          // dark: {
+          //   coverBackground : 'linear-gradient(to left bottom, hsl(181, 100%, 85%) 0%,hsl(207, 63%, 10%) 100%)',
+          // },
+          // light: {
+          //   coverBackground : 'linear-gradient(to left bottom, hsl(181, 100%, 85%) 0%,hsl(207, 63%, 10%) 100%)',
+          // }
         },
       };
     </script>
