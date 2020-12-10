@@ -1,4 +1,2 @@
 - [Home]()
-
-- [One](README.md)
-- [Two](/nested/README.md)
+- [Nested](/nested/README.md)
