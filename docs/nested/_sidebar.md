@@ -1,3 +1,3 @@
-- [Nested](./README.md)
+- [Nested](nested/README.md)
 
-- [More content](./more-content.md)
+- [More content](nested/more-content.md)
