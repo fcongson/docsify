@@ -1,5 +1,7 @@
   - lorem
-    - [quickstart](/lorem/quickstart.md)
+    - [quickstart](/01-lorem/quickstart.md)
+  - ipsum
+    - [hello](/02-ipsum/hello.md)
   - nested
-    - [another one](/nested/another-one.md)
-    - [more content](/nested/more-content.md)
+    - [another one](/03-nested/another-one.md)
+    - [more content](/03-nested/more-content.md)
