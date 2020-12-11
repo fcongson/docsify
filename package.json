@@ -1,5 +1,9 @@
 {
+  "scripts": {
+    "build": "docsify-auto-sidebar -d docs"
+  },
   "dependencies": {
-    "docsify-darklight-theme": "^3.0.6"
+    "docsify-darklight-theme": "^3.0.6",
+    "docsify-tools": "^1.0.20"
   }
 }

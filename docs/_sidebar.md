@@ -1,3 +1,5 @@
-- [Getting started](README.md)
-
-- [Quick Start](quickstart.md)
+  - lorem
+    - [quickstart](/lorem/quickstart.md)
+  - nested
+    - [another one](/nested/another-one.md)
+    - [more content](/nested/more-content.md)
